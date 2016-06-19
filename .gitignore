@@ -1,0 +1,12 @@
+# OS Specifics
+.DS_Store
+thumbs.db
+
+# NodeJS
+node_modules
+
+# Babel Outputs
+dist
+
+# Generated Documentation
+docs

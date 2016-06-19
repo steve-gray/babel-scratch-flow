@@ -1,0 +1,20 @@
+# OS Specifics
+.DS_Store
+thumbs.db
+
+# NodeJS
+node_modules
+
+# Babel Inputs
+src
+libs
+
+# Workspace Setup
+.vscode
+.gitignore
+gulpfile.babel.js
+
+# Documentation
+docs
+manual
+*.md
